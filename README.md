@@ -23,11 +23,11 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone <repository-url>
    cd <repository-name>
    ```
-````
 
 2. Install dependencies:
 
@@ -41,14 +41,14 @@ Ensure you have the following installed:
 
    app/web/.env
 
-   ```
+   ```bash
    JWT_SECRET=test
    NEXTAUTH_URL=http://localhost:3000
    ```
 
    packages/db/.env
 
-   ```
+   ```bash
    DATABASE_URL="postgresql://postgres:root@localhost:5432/postgres"
    ```
 
