@@ -1,6 +1,3 @@
-Here's a sample README file for your monorepo project using TurboRepo, designed for a full-stack Next.js application. This template includes technologies such as Next.js, TailwindCSS, Prisma with PostgreSQL, Recoil, and NextAuth.
-
-````markdown
 # Full Stack Next.js Monorepo Template
 
 This project is a full-stack Next.js template configured as a monorepo using TurboRepo. It integrates several modern web development tools and frameworks, providing a robust starting point for building scalable applications.
